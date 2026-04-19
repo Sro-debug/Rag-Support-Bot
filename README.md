@@ -1,6 +1,6 @@
 # SupportAI — RAG Customer Support Bot
 
-A production-ready **Retrieval-Augmented Generation** customer support chatbot with a
+A customer support chatbot with a
 **polyglot microservice architecture**:
 
 | Service | Language | Responsibility |
